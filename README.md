@@ -1,4 +1,3 @@
-- 👀 I’m highly interested in coding & to proceed ahead in development
 <!---
 samchatt143/samchatt143 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -14,13 +13,13 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 Currently learning **Blockchain development**
 
+- 👀 I’m highly interested in coding & to proceed ahead in development
+
 - 📫 How to reach me **samarthachatterjee2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/samartha-chatterjee-b01721240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkdin-img" height="30" width="40" /></a>
-<a href="https://www.facebook.com/samartha.chatterjee" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1365px-Facebook_f_logo_%282019%29.svg.png" alt="facebook-img" height="40" width="40" /></a>
-<a href="https://www.instagram.com/mr_chatterjee_143/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="instagram-img" height="40" width="40" /></a>
 
 </p>
 
