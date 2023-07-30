@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samchatt143&label=Profile%20views&color=0e75b6&style=flat" alt="samartha" /> </p>
 
-- 🔭 I’m currently persuing **B.Tech** in **Computer Science and Engineering**
+- 🔭 I’m currently pursuing **B.Tech** in **Computer Science and Engineering**
 
 - 🌱 Currently learning **Blockchain development**
 
