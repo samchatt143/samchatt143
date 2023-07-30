@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">A simple undergrad who enjoys coding and making new projects.</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samchatt143&theme=darkhub" alt="samartha" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shouryasarkar&label=Profile%20views&color=0e75b6&style=flat" alt="shourya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samchatt143&label=Profile%20views&color=0e75b6&style=flat" alt="samartha" /> </p>
 
 <p align="left"> <a href="https://twitter.com/Shourya321" target="blank"><img src="https://img.shields.io/twitter/follow/Shourya321?logo=twitter&style=for-the-badge" alt="Shourya321" /></a> </p>
 
