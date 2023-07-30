@@ -1,4 +1,3 @@
-- 👋 Hi, I’m SAMARTHA CHATTERJEE
 - 👀 I’m highly interested in coding & to proceed ahead in development
 - 🌱 I’m currently pursuing by BTECH degree in Computer Science and Engineering from HERITAGE INSTITUTE OF TECHNOLOGY,KOLKATA
 - 📫 How to reach me!! It's simple do have a look in https://www.linkedin.com/in/samartha-chatterjee-b01721240
@@ -9,8 +8,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi 👋, I'm Samartha </h1>
-<h3 align="center">A passionate learner from India</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shouryasarkar&theme=darkhub" alt="shourya" /></a> </p>
+<h3 align="center">A simple undergrad who enjoys coding and making new projects.</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shouryasarkar&theme=darkhub" alt="samartha" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shouryasarkar&label=Profile%20views&color=0e75b6&style=flat" alt="shourya" /> </p>
 
